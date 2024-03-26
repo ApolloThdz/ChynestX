@@ -1,7 +1,7 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "ChynestX", HidePremium = false, Premium = true, SaveConfig = true, ConfigFolder = "OrionTest", IntroEnabled = true})
 local Tab = Window:MakeTab({
-    Name = "AutoFarming",
+    Name = "AutoFarming!",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
